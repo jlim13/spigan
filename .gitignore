@@ -1,0 +1,5 @@
+data/
+debug_outputs/
+loss_plots/
+model_weights/
+__pycache__/
